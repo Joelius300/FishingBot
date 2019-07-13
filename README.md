@@ -32,8 +32,9 @@ You can customize it by using the following parameter options:
 - `--countdown`
 - `-c`
 
-Syntax: `dotnet FishingBot.dll -c 00:00:30`
-Syntax: `dotnet FishingBot.dll /countdown 00:01:05`
+Examples:  
+- `dotnet FishingBot.dll -c 00:00:30`
+- `dotnet FishingBot.dll /countdown 00:01:05`
 
 ### Refreshrate
 
@@ -45,8 +46,9 @@ You can customize it by using the following parameter options:
 - `--refreshrate`
 - `-r`
 
-Syntax: `dotnet FishingBot.dll --refreshrate 00:00:50`
-Syntax: `dotnet FishingBot.dll -r 00:30:00`
+Examples:  
+- `dotnet FishingBot.dll --refreshrate 00:00:50`
+- `dotnet FishingBot.dll -r 00:30:00`
 
 ### Combined
   
